@@ -1,7 +1,7 @@
 # React API Demo
 * REST API Link: https://radiant-waters-52080.herokuapp.com
 
-React API Demo is a web application created from the React framework. This applcation collects data from a REST API hosted on a MongoDB database. This application allows us to collect all information from the /employees, /teams, and /projects endpoints.
+React API Demo is a web application created from the React framework. This applcation collects data from a REST API hosted on a MongoDB database. This application allows us to collect all information from the /employees, /teams, and /projects endpoints and then display this information back to the user. 
 
 ## Run the Application
 1. Download or Clone the Repo
